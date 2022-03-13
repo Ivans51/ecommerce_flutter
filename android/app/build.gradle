@@ -64,5 +64,6 @@ flutter {
 }
 
 dependencies {
+    implementation 'com.mercadopago.android.px:checkout:4.+'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
